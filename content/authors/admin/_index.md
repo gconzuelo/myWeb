@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Gabriel Conzuelo Rodriguez
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Epidemiology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Pittsburgh
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Epidemiology
+- Cervical Cancer
+- Women's Health
+- Research Methods
+- Causal Inference
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MPH in Epidemiology
+    institution: University of Pittsburgh
+    year: 2016
+  - course: Medical Doctor (MD)
+    institution: Autonomous University of the State of Mexico
+    year: 2014
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,11 +66,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I currently work in the research group led by Dr. Ashley Naimi. My primary interest relies on the intersection between the clinical research and epidemiologic methods. I currently work in the implementation of non-parametric doubly robust estimators to clinical trials.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
