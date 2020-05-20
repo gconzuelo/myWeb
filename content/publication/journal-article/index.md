@@ -1,11 +1,11 @@
 ---
 title: "Hemodynamic evaluation and anti-hypertensive schemes used in puerperal women following pre-eclampsia."
 authors:
-- admin
+- me
 - Albarran, HA
 - Zeron, HM
 date: "2012-04-01"
-doi: ""
+PMID: "22561779"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Mymensingh Med J. 2012;21(2):327‐332."
 publication_short: ""
 
 abstract: Pre-eclampsia is still a very prevalent disease with critical hemodynamic changes. This study was evaluated the major anti-hypertensive schemes used at the Materno Perinatal Hospital "Monica Pretelini" (HMPMP) hospitalized at the Obstetric Intensive Care Unit (OICU) for at least seven days. In other group of patients we compared hemodynamic monitoring with Swan-Ganz catheter versus transthoracic electrical bioimpedance (TEB) and gasometric formulas. Statistical analysis was done using the Statistical Package for Social Science (SPSS) software, version 17. Amlodipine + temisartan + prazocin was the preferred anti-hypertensive drug combination used in our intensive care unit. Sodium nitroprusside is required in 25% of patients until reaching control. There was no statistically significant difference in cardiac output calculated with gasometric formulas compared to thermodilution with Swan-Ganz catheter. Calcium antagonists + angiotensin II receptor blocker (ARB) + α-blockers offer the best option to control hypertension in puerperal women that followed pre-eclampsia, but oral and IV drugs to control hypertension is required in 20% of cases, in a Mexican Intensive Care Unit specialized in obstetrical patients. Hemodynamic monitoring with gasometric formulas is still usefull in this set of patients, without discarding TEB with a correction factor due to the accumulated extravascular water in these patients.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
 - Source Themes
@@ -64,7 +64,7 @@ slides: example
 ---
 
 {{% alert note %}}
-Click the *Cite1* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
 {{% alert note %}}
