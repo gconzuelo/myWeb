@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gabriel Conzuelo Rodriguez
+title: Gabriel Conzuelo
 
 # Username (this should match the folder name)
 authors:
