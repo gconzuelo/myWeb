@@ -1,9 +1,10 @@
 ---
-title: "An example journal article"
+title: "Hemodynamic evaluation and anti-hypertensive schemes used in puerperal women following pre-eclampsia."
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- Albarran, HA
+- Zeron, HM
+date: "2012-04-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +20,7 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Pre-eclampsia is still a very prevalent disease with critical hemodynamic changes. This study was evaluated the major anti-hypertensive schemes used at the Materno Perinatal Hospital "Monica Pretelini" (HMPMP) hospitalized at the Obstetric Intensive Care Unit (OICU) for at least seven days. In other group of patients we compared hemodynamic monitoring with Swan-Ganz catheter versus transthoracic electrical bioimpedance (TEB) and gasometric formulas. Statistical analysis was done using the Statistical Package for Social Science (SPSS) software, version 17. Amlodipine + temisartan + prazocin was the preferred anti-hypertensive drug combination used in our intensive care unit. Sodium nitroprusside is required in 25% of patients until reaching control. There was no statistically significant difference in cardiac output calculated with gasometric formulas compared to thermodilution with Swan-Ganz catheter. Calcium antagonists + angiotensin II receptor blocker (ARB) + α-blockers offer the best option to control hypertension in puerperal women that followed pre-eclampsia, but oral and IV drugs to control hypertension is required in 20% of cases, in a Mexican Intensive Care Unit specialized in obstetrical patients. Hemodynamic monitoring with gasometric formulas is still usefull in this set of patients, without discarding TEB with a correction factor due to the accumulated extravascular water in these patients.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://pubmed.ncbi.nlm.nih.gov/22561779/?from_single_result=Hemodynamic+evaluation+and+anti-hypertensive+schemes+used+in+puerperal+women+following+pre-eclampsia.&expanded_search_query=Hemodynamic+evaluation+and+anti-hypertensive+schemes+used+in+puerperal+women+following+pre-eclampsia.
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,7 +64,7 @@ slides: example
 ---
 
 {{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite1* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
 {{% alert note %}}
