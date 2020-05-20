@@ -16,8 +16,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Mymensingh Med J. 2012;21(2):327‐332"
-short publication: "PMID: 22561779"
+publication: "Medicinski Glasnik. 2015 Aug;12(2):151-6"
+publication_short: ""
 
 abstract: 
 
@@ -43,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: 
   focal_point: ""
   preview_only: false
 

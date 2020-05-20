@@ -1,5 +1,5 @@
 ---
-title: "Hemodynamic evaluation and anti-hypertensive schemes used in puerperal women following pre-eclampsia."
+title: "Hemodynamic evaluation and anti-hypertensive schemes used in puerperal women following pre-eclampsia"
 authors:
 - me
 - Albarran, HA
@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Mymensingh Med J. 2012;21(2):327‐332"
-Other identifier: "PMID: 22561779"
+publication_short: "PMID: 22561779"
 
 abstract: Pre-eclampsia is still a very prevalent disease with critical hemodynamic changes. This study was evaluated the major anti-hypertensive schemes used at the Materno Perinatal Hospital "Monica Pretelini" (HMPMP) hospitalized at the Obstetric Intensive Care Unit (OICU) for at least seven days. In other group of patients we compared hemodynamic monitoring with Swan-Ganz catheter versus transthoracic electrical bioimpedance (TEB) and gasometric formulas. Statistical analysis was done using the Statistical Package for Social Science (SPSS) software, version 17. Amlodipine + temisartan + prazocin was the preferred anti-hypertensive drug combination used in our intensive care unit. Sodium nitroprusside is required in 25% of patients until reaching control. There was no statistically significant difference in cardiac output calculated with gasometric formulas compared to thermodilution with Swan-Ganz catheter. Calcium antagonists + angiotensin II receptor blocker (ARB) + α-blockers offer the best option to control hypertension in puerperal women that followed pre-eclampsia, but oral and IV drugs to control hypertension is required in 20% of cases, in a Mexican Intensive Care Unit specialized in obstetrical patients. Hemodynamic monitoring with gasometric formulas is still usefull in this set of patients, without discarding TEB with a correction factor due to the accumulated extravascular water in these patients.
 
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubmed.ncbi.nlm.nih.gov/22561779/?from_single_result=Hemodynamic+evaluation+and+anti-hypertensive+schemes+used+in+puerperal+women+following+pre-eclampsia.&expanded_search_query=Hemodynamic+evaluation+and+anti-hypertensive+schemes+used+in+puerperal+women+following+pre-eclampsia.
+url_pdf: https://pubmed.ncbi.nlm.nih.gov/22561779/
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -44,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ""
   focal_point: ""
   preview_only: false
 
