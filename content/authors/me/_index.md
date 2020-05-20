@@ -15,7 +15,7 @@ role: PhD Candidate in Epidemiology
 # Organizations/Affiliations
 organizations:
 - name: University of Pittsburgh
-  url: "www.pitt.edu"
+  url: "https://www.pitt.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
