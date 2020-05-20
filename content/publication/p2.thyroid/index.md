@@ -17,7 +17,6 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Medicinski Glasnik. 2015 Aug;12(2):151-6"
-publication_short: ""
 
 abstract: Aim: Autoimmune thyroid disease (AITD) is a multifactorial disease with a genetic predisposition. The protein tyrosine phosphatase-22 (PTPN-22) gene is a powerful inhibitor of T-cell activation. The aim of this study was to compare messenger RNA (mRNA) PTPN22 expression between healthy persons and patients with hypothyroidism and with their affected relatives.
 
