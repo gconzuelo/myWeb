@@ -1,10 +1,12 @@
 ---
-title: "Familial autoimmune thyroid disease and PTPN-22"
+title: "Ablative therapies for cervical intraepithelial neoplasia in low-resource settings: Findings and key questions"
 authors:
+- Cremer, Miriam L
 - me
-- Mendieta-Zeron, H
-date: "2015-08-01"
-doi: "10.17392/803-15"
+- Cherniak, William 
+- Randall, Thomas
+date: "2018-10-01"
+doi: "10.1200/JGO.18.00093"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -16,18 +18,10 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Medicinski Glasnik. 2015 Aug;12(2):151-6"
+publication: "Journal of global oncology"
 publication_short: ""
 
-abstract: Aim: Autoimmune thyroid disease (AITD) is a multifactorial disease with a genetic predisposition. The protein tyrosine phosphatase-22 (PTPN-22) gene is a powerful inhibitor of T-cell activation. The aim of this study was to compare messenger RNA (mRNA) PTPN22 expression between healthy persons and patients with hypothyroidism and with their affected relatives.
-
-Methods: This was a cross-sectional, prospective and descriptive study. DNA was extracted from leukocytes (4,000-10,000 cells) using the Magna Pure LC 2.0 Instrument and MagNA Pure LC RNA Isolation Kit I (Roche, Germany). A real-time polymerase reaction (qPCR) was performed utilizing the primer sets specific for the PTPN-22 gene, and the succinate dehydrogenase complex, the subunit A, Flavoprotein (Fp) (SDHA) constitutive gene. All reactions were performed with the 7500 Fast Real Time PCR System (Applied Biosystems, Applera International, Inc. Cheshire, UK) employing the SYBR Advantage qPCR Premix Kit (Clontech, USA).
-
-Results: Twenty five patients with AITD (hypothyroidism), all females (mean age 39.6 ± 11.8 years) and 23 control subjects (mean age 24.4 ± 4.2 years) were included in the study. There was no statistical difference between both groups in PTPN-22 mRNA expression (p = 0.125).
-
-Conclusion: There is no clear difference in mRNA PTPN-22 expression. The ideal genes for a systematic screening for familial AITD are yet to be found.
-
-Keywords: genetic screening; hypothyroidism; qPCR.
+abstract: Barriers to access for cervical precancer care in low-resource settings go beyond cost. Gas-based cryotherapy has emerged as the standard treatment in these areas, but there are barriers to this technology that have necessitated the development and implementation of affordable and portable alternatives. This review identifies knowledge gaps with regard to technologies primarily used in low-resource settings, including standard cryotherapy, nongas-based cryotherapy, and thermoablation. These gaps are addressed using evidence-based guidelines, patient and provider acceptability, long-term obstetric outcomes, and treatment of women with HIV infection. This review highlights the need for prospective studies that compare ablative methods, especially given the increasing use of thermoablation.
 
 # Summary. An optional shortened abstract.
 summary:
