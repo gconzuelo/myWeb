@@ -1,21 +1,23 @@
 ---
-title: "Acceptability of self-sampling and human papillomavirus testing among non-attenders of cervical cancer screening programs in El Salvador"
+title: "Evaluation of two alternative ablation treatments for cervical pre-cancer against standard gas-based cryotherapy: a randomized non-inferiority study"
 authors:
-- Maza, M 
-- Melendez, M 
-- Masch, R 
-- Alfaro, K 
-- Chacon, A 
-- Gonzalez, E 
-- Soler, M 
+- Cremer, Miriam 
+- Alfaro, Karla 
+- Garai, Jillian 
+- Salinas, Manuel 
+- Maza, Mauricio 
+- Zevallos, Alberto 
+- Taxa, Luis 
+- Diaz, Ana C 
+- Castle, Philip 
+- Alonzo, Todd A
+- Masch, Rachel
+- Soler, Montserrat
 - me
-- Gage, JC 
-- Alonzo, TA
-- Castle, PE
-- Felix, JC
-- Cremer, M
-date: "2018-09-01"
-doi: "10.1016/j.ypmed.2018.06.017"
+- Gage, Julia
+- Felix, Juan C
+date: "2019-05-03"
+doi: "10.1136/ijgc-2018-000148"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -27,12 +29,10 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preventive medicine"
+publication: "International Journal of Gynecologic Cancer"
 publication_short: ""
 
-abstract: In a cross-sectional study carried out in El Salvador between February 2016 and July 2017, self-sampling and human papillomavirus (HPV) testing was found to be highly acceptable among 2019 women who had not attended a cervical cancer screening in at least 3 years. Within this population, HPV positivity rates differed according to age, marital status, number of children, and lifetime sexual partners. The proportion of women who tested HPV positive or who were diagnosed with cervical intraepithelial neoplasia grade 2 (CIN2) or more severe diagnoses (CIN2+) was similar to the general population of the area. Among the reasons for failing to participate in previous screening programs, non-attending women described logistic concerns, but also erroneous beliefs regarding HPV and cervical cancer, misconceptions regarding the screening procedure, discomfort with male providers, and confidentiality fears. The aim of this study was to identify opportunities and challenges that emerged from the use of self-sampling and HPV testing as part of a public cervical cancer control effort in a low-resource setting.
-
-Keywords: Cervical cancer; El Salvador; HPV; Self-sampling. 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -44,7 +44,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubmed.ncbi.nlm.nih.gov/29958860/
+url_pdf: https://pubmed.ncbi.nlm.nih.gov/31055452/
 url_code: ''
 url_dataset: ''
 url_poster: ''

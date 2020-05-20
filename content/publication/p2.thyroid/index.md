@@ -18,18 +18,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "Medicinski Glasnik. 2015 Aug;12(2):151-6"
 
-abstract: 
-Aim
-Autoimmune thyroid disease (AITD) is a multifactorial disease with a genetic predisposition. The protein tyrosine phosphatase-22 (PTPN-22) gene is a powerful inhibitor of T-cell activation. The aim of this study was to compare messenger RNA (mRNA) PTPN22 expression between healthy persons and patients with hypothyroidism and with their affected relatives. Methods: This was a cross-sectional, prospective and descriptive study. DNA was extracted from leukocytes (4,000-10,000 cells) using the Magna Pure LC 2.0 Instrument and MagNA Pure LC RNA Isolation Kit I (Roche, Germany). A real-time polymerase reaction (qPCR) was performed utilizing the primer sets specific for the PTPN-22 gene, and the succinate dehydrogenase complex, the subunit A, Flavoprotein (Fp) (SDHA) constitutive gene. All reactions were performed with the 7500 Fast Real Time PCR System (Applied Biosystems, Applera International, Inc. Cheshire, UK) employing the SYBR Advantage qPCR Premix Kit (Clontech, USA).
-
-Results
-Twenty five patients with AITD (hypothyroidism), all females (mean age 39.6 ± 11.8 years) and 23 control subjects (mean age 24.4 ± 4.2 years) were included in the study. There was no statistical difference between both groups in PTPN-22 mRNA expression (p = 0.125).
-
-Conclusion
-There is no clear difference in mRNA PTPN-22 expression. The ideal genes for a systematic screening for familial AITD are yet to be found.
-
-Keywords
-genetic screening; hypothyroidism; qPCR.
+abstract: Aim, Autoimmune thyroid disease (AITD) is a multifactorial disease with a genetic predisposition. The protein tyrosine phosphatase-22 (PTPN-22) gene is a powerful inhibitor of T-cell activation. The aim of this study was to compare messenger RNA (mRNA) PTPN22 expression between healthy persons and patients with hypothyroidism and with their affected relatives. Methods: This was a cross-sectional, prospective and descriptive study. DNA was extracted from leukocytes (4,000-10,000 cells) using the Magna Pure LC 2.0 Instrument and MagNA Pure LC RNA Isolation Kit I (Roche, Germany). A real-time polymerase reaction (qPCR) was performed utilizing the primer sets specific for the PTPN-22 gene, and the succinate dehydrogenase complex, the subunit A, Flavoprotein (Fp) (SDHA) constitutive gene. All reactions were performed with the 7500 Fast Real Time PCR System (Applied Biosystems, Applera International, Inc. Cheshire, UK) employing the SYBR Advantage qPCR Premix Kit (Clontech, USA). Results, Twenty five patients with AITD (hypothyroidism), all females (mean age 39.6 ± 11.8 years) and 23 control subjects (mean age 24.4 ± 4.2 years) were included in the study. There was no statistical difference between both groups in PTPN-22 mRNA expression (p = 0.125). Conclusion, There is no clear difference in mRNA PTPN-22 expression. The ideal genes for a systematic screening for familial AITD are yet to be found. Keywords, genetic screening; hypothyroidism; qPCR.
 
 # Summary. An optional shortened abstract.
 summary:
